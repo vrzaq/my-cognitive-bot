@@ -1,6 +1,3 @@
-Berikut adalah contoh `README.md` untuk proyek Anda di GitHub:
-
-```markdown
 # My Cognitive Bot
 
 My Cognitive Bot is an AI-powered chatbot with cognitive capabilities implemented using TensorFlow.js. This bot can learn and respond to user inputs intelligently.
@@ -11,8 +8,8 @@ My Cognitive Bot is an AI-powered chatbot with cognitive capabilities implemente
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Training the Model](#training-the-model)
-- [Author](#author)
-- [License](#license)
+- [Author](Arifi Razzaq)
+- [License](MIT)
 
 ## Installation
 
