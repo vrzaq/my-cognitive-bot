@@ -8,8 +8,8 @@ My Cognitive Bot is an AI-powered chatbot with cognitive capabilities implemente
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Training the Model](#training-the-model)
-- [Author](Arifi Razzaq)
-- [License](MIT)
+- [Author](#author)
+- [License](#license)
 
 ## Installation
 
